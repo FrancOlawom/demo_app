@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails demo_app: development" product="" version="" jdbc-version="" driver-version="" uuid="ac8d30c9-9f94-4a02-a91b-5e229f01ac63">
+    <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+    <jdbc-url>jdbc:sqlite:/home/franko/Rails/Ruby On Rails 3 Tutorial/demo_app/db/development.sqlite3</jdbc-url>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/sqlitejdbc-v056.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
